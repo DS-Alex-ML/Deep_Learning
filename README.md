@@ -1,5 +1,5 @@
-# DL - Recognition of Cats & Dogs
-[Reconocimiento de Gatos y Perros]
+# DL - Recognition Cats & Dogs
+[Reconocimiento Gatos y Perros]
 
 ### **[Versión Español]**
 Haciendo uso del recurso gratuito con CPU, GPU y TPU https://colab.research.google.com/, trabajaremos con imágenes desde el enlace de descarga de la base de datos **"dataset"** https://drive.google.com/drive/folders/1QsPBPg99u-m1twBtNKwi82C7KVHiF-Mw?usp=sharing en donde tenemos 3 subcarpetas agrupadas como:
